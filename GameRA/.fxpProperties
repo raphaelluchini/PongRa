@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="588722a0-0b1f-478f-9380-8a7680d97f6b" projectUUID="588722a0-0b1f-478f-9380-8a7680d97f6b" sdkVersion="4.0.0" uuid="69e25b28-53b3-4d22-a71c-e31d33ea807c" version="4">
+  <projects/>
+  <src>
+    <linked isMain="false" location="libs" path="libs" position="0" uuid="69e25b28-53b3-4d22-a71c-e31d33ea807c"/>
+  </src>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="69e25b28-53b3-4d22-a71c-e31d33ea807c"/>
+    <linked location="C:/Users/Raphael/Adobe Flash Builder 4/GameRA/libs" path="/libs" position="1" uuid="69e25b28-53b3-4d22-a71c-e31d33ea807c"/>
+  </swc>
+  <misc/>
+  <theme/>
+</fxpProperties>
